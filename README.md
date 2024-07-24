@@ -19,4 +19,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCR4p&size_weight=0.5&count_weight=0.5)
 
-## Mluco do Ti
+## Maluco do Ti
